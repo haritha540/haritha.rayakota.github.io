@@ -1,0 +1,28 @@
+title: Haritha Prasad Rayakota
+email: hrayakota@unomaha.edu
+description: >-
+  Ph.D. Candidate in Information Technology at the University of Nebraska–Omaha. Research in ML, DL, Computer Vision, Multimodal Fusion, Robotics, and Biomedical Information Retrieval.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # set to https://your-github-username.github.io after uploading
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+author:
+  name: Haritha Prasad Rayakota
+  email: hrayakota@unomaha.edu
+
+minima:
+  social_links:
+    - {"platform": "github", "user_url": "https://github.com/your-github-username"}
+
+header_pages:
+  - index.md
+  - publications.md
+  - teaching.md
+  - research.md
+  - experience.md
+  - service.md
+
+  - education.md
