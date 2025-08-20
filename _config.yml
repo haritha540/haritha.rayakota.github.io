@@ -3,7 +3,8 @@ email: hrayakota@unomaha.edu
 description: >-
   Ph.D. Candidate in Information Technology at the University of Nebraska–Omaha. Research in ML, DL, Computer Vision, Multimodal Fusion, Robotics, and Biomedical Information Retrieval.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://haritha.rayakota.github.io" # set to https://your-github-username.github.io after uploading
+url: "https://haritharayakota.github.io" # set to https://your-github-username.github.io after uploading
+baseurl: "/haritha.rayakota.github.io"
 
 theme: minima
 plugins:
